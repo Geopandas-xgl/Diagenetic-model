@@ -42,4 +42,4 @@ Feedback and contributions are welcome!
 ### 🔗 Project Repository
 
 For code updates and related scripts, visit:  
-[GitHub – Geopandas-xgl Repository](
+[GitHub – Geopandas-xgl Repository](https://github.com/Geopandas-xgl/Diagenetic-model)
