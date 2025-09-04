@@ -16,7 +16,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear variables; clc
 
-ModeData = struct("Solid",cell(1,2),"WR",cell(1,2));
+ModelData = struct("Solid",cell(1,2),"WR",cell(1,2));
 
 parfor N = 1:2  % "N = 1" denotes inital dC and dO of primary minerals in Pre-CIE;
                 % "N = 2" denotes inital dC and dO of primary minerals in Peak-CIE;
@@ -34,4 +34,5 @@ end
 save("Data\ModelData.mat","ModelData");
 %% Plot 
 DiagModel_GLX_plot
+
 
