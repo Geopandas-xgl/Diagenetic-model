@@ -31,6 +31,8 @@ This MATLAB-based model (developed in R2024a) simulates early phreatic meteoric 
 | `DiagModel_GLX_dJdt.m`    | ODE solver that tracks changes in mass and isotopic composition over time. |
 | `DiagModel_GLX_fluxes.m`  | Computes the input/output fluxes of each model box at each time step. |
 | `DiagModel_GLX_plot.m`    | Generates publication-quality visualizations of model results. |
+| `Baseline condition.cocx` | Summary of baseline condition for primary LMC to second LMC recrystallization in phreatic meteoric zone. |
+| `Data`                    | The C and O isotope from Tingri section. |
 
 ---
 
