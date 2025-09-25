@@ -12,7 +12,7 @@
 
 ## 🔍 Introduction
 
-This MATLAB-based model (developed in R2024a) simulates early phreatic meteoric diagenesis in carbonate sediments. It is adapted from Ahm et al. (2018, _GCA_) and Murphy et al. (2022, _GCA_), with significant enhancements for modern environments.
+This MATLAB-based model (developed in R2024a) simulates early phreatic meteoric diagenesis in carbonate sediments. It is adapted from Ahm et al. (2018, _GCA_) and Murphy et al. (2022, _GCA_), with significant enhancements for meteoric environments.
 
 ### 🔧 Key Features
 
